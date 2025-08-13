@@ -45,6 +45,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
+        "image_2": "shopify://shop_images/dota2.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
